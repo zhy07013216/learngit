@@ -1,4 +1,6 @@
 # learngit
 this project is just for learning git
 change this file
-change after staged 
+change after staged
+
+change again
